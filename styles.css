@@ -1,0 +1,20 @@
+html {
+  background-color: #000000;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  background-color: #272624;
+  padding: 15px 20px 20px 20px;
+  border: 5px solid rgb(255, 0, 0);
+}
+
+h1 {
+  color: #ffffff;
+}
+
+p {
+  color: #ff1010;
+  line-height: 1.6;
+}
