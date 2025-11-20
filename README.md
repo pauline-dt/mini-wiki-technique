@@ -6,3 +6,5 @@ Pauline :A
 Evann :C
 Le H :C
 
+Ce wiki explique les bases de Git pour
+débutants.
