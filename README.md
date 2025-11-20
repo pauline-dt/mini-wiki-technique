@@ -1,6 +1,8 @@
 groupe 8
 
-le KKK
-Pauline 
-Evann
-Le H
+nom des membres:
+le KKK :B
+Pauline :A
+Evann :C
+Le H :C
+
