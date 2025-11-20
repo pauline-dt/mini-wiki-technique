@@ -6,3 +6,5 @@ Pauline :A
 Evann :C
 Le H :C
 
+Ce wiki présente le workflow Git et les outils
+associés.​
