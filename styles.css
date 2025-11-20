@@ -12,9 +12,19 @@ body {
 
 h1 {
   color: #ffffff;
+  text-align: center;
 }
 
+h2 {
+  color: #ffffff;
+  text-align: center;
+}
 p {
   color: #ff1010;
   line-height: 1.6;
+}
+
+li {
+  color: #0008ff;
+  margin-bottom: 8px;
 }
