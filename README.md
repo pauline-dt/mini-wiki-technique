@@ -6,4 +6,3 @@ Pauline :A
 Evann :C
 Le H :C
 
-Ce wiki regroupe les commandes Git utiles.
